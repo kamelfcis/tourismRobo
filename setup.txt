@@ -1,0 +1,13 @@
+run :  python app.py
+
+
+
+Libiraries : 
+
+python -m venv venv
+venv\Scripts\activate     # on Windows
+    
+
+python -m pip install --upgrade pip
+pip install roboflow
+pip install Flask werkzeug roboflow
